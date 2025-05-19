@@ -7,19 +7,18 @@
 
 <p align="left"> <a href="https://twitter.com/@alielzayat97" target="blank"><img src="https://img.shields.io/twitter/follow/@alielzayat97?logo=twitter&style=for-the-badge" alt="@alielzayat97" /></a> </p>
 
-- 🔭 I’m currently working on [Wfrlee.com](https://www.wfrlee.com)
-
+- 🔭 I’m currently working on [Tadarab](https://www.tadarab.com)
 - 🌱 I’m currently learning **Node.JS, Framer-motion, Next.JS@15, Flutter**
 
-- 👯 I’m looking to collaborate on [Tadarab](https://www.tadarab.com)
+- 👯 I’m looking to collaborate on [Tawuniya](https://www.tawuniya.com/)
 
-- 👨‍💻 All of my projects are available at [https://zayat-panel-vssd.vercel.app/portfolio](https://zayat-panel-vssd.vercel.app/portfolio)
+- 👨‍💻 All of my projects are available at [Portfolio](https://zayat.me/portfolio)
 
 - 💬 Ask me about **React, CS Fields**
 
 - 📫 How to reach me **alielzayat1197@icloud.com**
 
-- 📄 Know about my experiences [https://zayat-panel-vssd.vercel.app/resume](https://zayat-panel-vssd.vercel.app/resume)
+- 📄 Know about my experiences [Resume](https://zayat.me/resume)
 
 - ⚡ Fun fact **purchasing isn't ownership**
 
